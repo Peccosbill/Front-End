@@ -9,6 +9,7 @@ import store from "./redux/store";
 import reportWebVitals from "./reportWebVitals";
 
 const domain = process.env.REACT_APP_DOMAIN;
+
 const clientId = process.env.REACT_APP_CLIENT_ID;
 
 ReactDOM.render(
